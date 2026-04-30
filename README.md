@@ -1,7 +1,9 @@
 🌮 THE TACO PROJECT:
 
 📽️ ANIMATION PREVIEW
+
 ![Taco-Animation](taco-animation.gif)
+
 🚀 STARTING POINT
 This repository contains the first official sprite posted on GitHub.
 
