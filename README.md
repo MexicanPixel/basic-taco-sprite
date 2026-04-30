@@ -1,3 +1,18 @@
-<img width="1920" height="2560" alt="New Piskel (2)" src="https://github.com/user-attachments/assets/3936e8d4-3d13-4d84-802b-0a21a789134d" />
-# basic-taco-sprite
-a basic sprite, a taco being eaten
+🌮 THE TACO PROJECT:
+
+📽️ ANIMATION PREVIEW
+![Taco Animation](taco-animation.gif)
+🚀 STARTING POINT
+This repository contains the first official sprite posted on GitHub.
+
+I love making pixel art, so to keep my skills active and active, I decided to create this sprite.
+
+🎨 The Art: A Mexican taco animated frame by frame until it is completely consumed.
+
+🔧 The Tool: Created and animated exclusively in Piskel.
+
+🎉 The Goal: To mark the beginning of MexicanPixel's visual identity on GitHub.
+
+⭐ If you liked my first project, please consider giving a star to my hard and dedicated work.
+
+✍️ AUTHOR: MexicanPixel.  
