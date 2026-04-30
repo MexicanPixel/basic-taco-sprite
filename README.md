@@ -5,7 +5,7 @@
 ![Taco-Animation](taco-animation.gif)
 
 🚀 STARTING POINT
-This repository contains the first official sprite posted on GitHub.
+This repository contains my first official sprite posted on GitHub.
 
 I love making pixel art, so to keep my skills active and active, I decided to create this sprite.
 
